@@ -1,0 +1,41 @@
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlScraper.exe.config
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlScraper.exe
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlScraper.pdb
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\HtmlAgilityPack.xml
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\obj\Debug\HtmlScraper.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\obj\Debug\HtmlScraper.exe
+c:\users\simon\documents\visual studio 2017\Projects\HtmlScraper\HtmlScraper\obj\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\HtmlScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\HtmlScraper.exe.config
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\obj\Debug\HtmlScraper.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\obj\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper\FinnSearcher\obj\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\HtmlScraper.exe.config
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\obj\Debug\HtmlScraper.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\obj\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy\FinnSearcher\obj\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\HtmlScraper.exe.config
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\HtmlScraper.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\obj\Debug\HtmlScraper.csprojAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\obj\Debug\HtmlScraper.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\obj\Debug\HtmlScraper.csproj.CopyComplete
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\obj\Debug\HtmlScraper.exe
+C:\Users\Simon\Documents\Visual Studio 2017\Projects\HtmlScraper - Copy - Copy - Copy\FinnSearcher\obj\Debug\HtmlScraper.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{75869690-ADA7-4142-ABD6-854A1014090A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinnSearchProject", "FinnSearcher\FinnSearchProject.csproj", "{0BC477F3-5BE3-42CE-965C-BD6AB0CA9FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75869690-ADA7-4142-ABD6-854A1014090A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75869690-ADA7-4142-ABD6-854A1014090A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75869690-ADA7-4142-ABD6-854A1014090A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75869690-ADA7-4142-ABD6-854A1014090A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC477F3-5BE3-42CE-965C-BD6AB0CA9FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC477F3-5BE3-42CE-965C-BD6AB0CA9FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC477F3-5BE3-42CE-965C-BD6AB0CA9FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC477F3-5BE3-42CE-965C-BD6AB0CA9FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2A8F0E-7E2B-4872-8603-884F9A5A67B8}
+	EndGlobalSection
+EndGlobal
